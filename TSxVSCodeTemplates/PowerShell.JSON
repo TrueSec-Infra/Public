@@ -20,7 +20,8 @@
         "",
         "          License Info:",
         "          MIT License",
-        "          Copyright (c) $CURRENT_YEAR TrueSec",
+        "          Copyright (c) $CURRENT_YEAR TRUESEC",
+        "",
         "          Permission is hereby granted, free of charge, to any person obtaining a copy",
         "          of this software and associated documentation files (the \"Software\"), to deal",
         "          in the Software without restriction, including without limitation the rights",
@@ -52,8 +53,8 @@
 },
 
 "NewTSxFunction" : {
-    "prefix": "TSxfunction",
-    "description": "Creates a new custom function including advanced comment based help.",
+    "prefix": "NewTSxfunction",
+    "description": "Creates a new custom function including advanced comment based help in the TrueSec approved format.",
     "body": [
         "function $Verb-TSx$Noun{",
         "<#",
@@ -78,7 +79,8 @@
         "",
         "          License Info:",
         "          MIT License",
-        "          Copyright (c) $CURRENT_YEAR TrueSec",
+        "          Copyright (c) $CURRENT_YEAR TRUESEC",
+        "",
         "          Permission is hereby granted, free of charge, to any person obtaining a copy",
         "          of this software and associated documentation files (the \"Software\"), to deal",
         "          in the Software without restriction, including without limitation the rights",
