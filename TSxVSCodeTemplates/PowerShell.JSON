@@ -78,7 +78,7 @@
         "    Created: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
         "    Modified: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
         "",
-        "    Version - 0.0.0 - ($CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE)",
+        "    Version - 0.0.1 - ($CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE)",
         "",
         "    License Info:",
         "    MIT License",
